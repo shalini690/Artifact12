@@ -8,7 +8,7 @@ endpoints: a `Hello world` root endpoint and a `Good evening` endpoint.
 - **Node.js >= 18** (required by Express 5).
 - **npm** as the package manager (bundled with Node.js).
 
-> Validated on the current Node.js LTS line (Node.js 20.x / 22.x).
+> Prefer a currently supported Node.js LTS release.
 
 ## Installation
 
